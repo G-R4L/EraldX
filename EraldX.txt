@@ -7,7 +7,7 @@
     ███████╗██║  ██║██║  ██║███████╗██████╔╝██╔╝ ██╗
     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
     
-    ERALDX - GENESIS v4.0 (DENGAN FLING TARGET)
+    ERALDX - GENESIS v4.0
     Created by: G-r4L
     Discord: https://discord.gg/bEEFxSYxM2
     ================================================================================
