@@ -1,4 +1,6 @@
 # EraldX
+just a roblox script lol, loadstring and go brrr 🗿
+
 
 ![](Screenshot.png)
 ```lua
